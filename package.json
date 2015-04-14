@@ -1,0 +1,31 @@
+{
+  "name": "ServicesPaysagers",
+  "version": "2.0.0",
+  "description": "ServicesPaysagersds",
+  "repository": "https://didosaidi@bitbucket.org/didosaidi/spds.git",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmeddidosaidi",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^2.2.0",
+    "grunt-browser-sync": "^2.0.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-cssmin": "~0.10.0",
+    "grunt-contrib-imagemin": "^0.9.3",
+    "grunt-contrib-uglify": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^0.18.1",
+    "load-grunt-tasks": "^3.1.0",
+    "load-grunt-config": "*",
+    "grunt-newer": "*"
+  },
+  "dependencies": {
+    "time-grunt": "*"
+  }
+}
